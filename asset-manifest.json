@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/electricfish/static/css/main.f837eff9.css",
+    "main.js": "/electricfish/static/js/main.61325641.js",
+    "index.html": "/electricfish/index.html",
+    "main.f837eff9.css.map": "/electricfish/static/css/main.f837eff9.css.map",
+    "main.61325641.js.map": "/electricfish/static/js/main.61325641.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f837eff9.css",
+    "static/js/main.61325641.js"
+  ]
+}

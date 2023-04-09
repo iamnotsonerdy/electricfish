@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/electricfish/static/css/main.f837eff9.css",
-    "main.js": "/electricfish/static/js/main.a68fb86c.js",
+    "main.css": "/electricfish/static/css/main.c4674ace.css",
+    "main.js": "/electricfish/static/js/main.91e479ee.js",
+    "static/media/webfont.woff": "/electricfish/static/media/webfont.513cb040d9e7815c7c68.woff",
     "index.html": "/electricfish/index.html",
-    "main.f837eff9.css.map": "/electricfish/static/css/main.f837eff9.css.map",
-    "main.a68fb86c.js.map": "/electricfish/static/js/main.a68fb86c.js.map"
+    "main.c4674ace.css.map": "/electricfish/static/css/main.c4674ace.css.map",
+    "main.91e479ee.js.map": "/electricfish/static/js/main.91e479ee.js.map"
   },
   "entrypoints": [
-    "static/css/main.f837eff9.css",
-    "static/js/main.a68fb86c.js"
+    "static/css/main.c4674ace.css",
+    "static/js/main.91e479ee.js"
   ]
 }

@@ -1,14 +1,12 @@
 /* landing */
 
-const landDg1 = "Apteronotus albifrons, commonly known as the black ghost knifefish or the black ghost electric fish, is a species of electric knife fish that belongs to the Apteronotidae family. It is a solitary and a nocturnal species. It is primarily a carnivorous animal and feeds on insect larvae, and small crustaceans."
+const landDg1 = "Meet the black ghost knifefish, a fascinating organism with an electric sense! It lives in dark and murky waters and generates electric fields to navigate and communicate." 
 
-const landDg2 = "Did you know that just like humans have different senses, such as sight and hearing, the black ghost knifefish has an electric sense? Meet the black ghost knifefish, a fascinating creature with an electric sense! Unlike us, it generates electric fields to navigate and communicate with other fish, especially in the dark and murky waters it calls home. "
+const landDg2 = "What are electric fish?"
 
-const landDg3 = "This extraordinary sense is well-developed and gives the knifefish an edge in adapting to its environment. "
+const landDg3 = "Some fish can produce electric fields, which makes them \"electrogenic\", while others can detect electric fields, which makes them \"electroreceptive\"."
 
-const landDg4 = "Some fish can produce electric fields, which makes them \"electrogenic\", while others can detect electric fields, which makes them \"electroreceptive\"."
-
-const landDg5 = "Many electric fish have both of these abilities. However, some fish species like skates, rays, sharks, and catfish can only detect electric fields, but not produce them. As a result, they are not usually considered electric fish."
+const landDg4 = "Many electric fish have both of these abilities. Some species including skates, rays, sharks, and catfish are not usually considered electric as they can only detect, but do not produce electric fields."
 
 /* where */
  
@@ -18,9 +16,31 @@ const list = ['Astroscopus','Electrophorus','Apteronotus','Gymnotus','Torpedo','
 
 /* how */
 
-const howTxt = "The Black Ghost Knife fish is quite the electro-sensation! It boasts specialised electrocytes in its tail that generates weak electric fields to navigate its surroundings, detect prey, and communicate with other fish. "
+const howTxt = "What is the source of electricity generation in the electric products?"
 
-const eodSbhd1="Electric Organ Discharge"
+const howTxt = "A battery!"
+
+const howTxt = "Similarly, electric fish have something known as an ‘ELECTRIC ORGAN’ for electricity generation."
+
+const howTxt = "Where is the organ located?"
+
+const howTxt = "It varies from species to species."
+
+const howTxt = "What is an Electric Organ?"
+
+const howTxt = "An electric organ consists of multiple columns, each containing thousands of stacked electrocytes (electric cells). These cells are exclusively connected to nerves on one side, with the connected side oriented towards the fish's tail.While at rest, these cells have a positive charge on the outside and a negative charge on the inside."
+
+const howTxt = "When signal arrives, the ion gates open (blue spaces) and allow the positive charges to move inside the cell."
+
+const howTxt = "The movement of ions only takes place on the innervated side. Therefore, the cell is positive on one side and negative on the other which allows it to act like an electric battery."
+
+const howTxt = "All the cells are innervated on only one side. This facilitates unimpeded charge movement towards the head. And then from the head to the tail, outside the body."
+
+const howTxt = "All the cells receive the signal simultaneously, which facilitates the creation of an electric field around the body of the fish. This field is known as ‘ELECTRIC ORGAN DISCHARGE’."
+
+
+
+/* const eodSbhd1="Electric Organ Discharge"
 
 const eod_P1="The electric fields are generated using a specialised electric organ in the tails of these fishes, made up of modified muscle or nerve cells. This organ produces an Electric Organ Discharge (EOD), which creates their unique ability to sense and communicate with their environment. "
 
@@ -34,7 +54,7 @@ const eodP3 = "Weakly electric fish generate an EOD too weak to stun prey, but a
 
 const eodP4 = "that is typically less than one volt in amplitude."
 
-*/
+
 
 const eodSbhd2 = "Different Kinds of EODs: Wave vs Pulse"
 
@@ -45,6 +65,7 @@ const eodwp_p2 = "Instead of a continuous waveform, the EOD of Gnathonemus, Gymn
 const eodwp_p3= "The figure above illustrates the different types of EOD waveforms observed in different species."
 
 const eodwp_p4 = ""
+ */
 
 const itb_sbhd="Foraging Behaviour: Is it Random?"
 
